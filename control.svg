@@ -19,7 +19,7 @@
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    onload="startup(evt)">
   <script
-     xlink:href="controle.js"
+     xlink:href="control.js"
      id="script3" />
   <defs
      id="defs4">
